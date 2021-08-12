@@ -29,6 +29,8 @@
   padding: 12px;
   border-radius: 25px;
   transition: background 0.1s ease-out;
+  cursor: pointer;
+  user-select: none;
 }
 .button:hover {
   background: grey;
